@@ -1,0 +1,8 @@
+{
+  "submission_id": 1,
+  "message": "<p>Maaf <strong>Ujang</strong>! Kamu belum berhasil lolos dengan alasan: <p>Kami tidak dapat menemukan berkas <code>package.json</code> pada submission yang kamu kirim.</p>, <p>Kami tidak dapat menemukan berkas <code>main.js</code> pada submission yang kamu kirim.</p>",
+  "checklist_keys": [],
+  "is_passed": false,
+  "rating": 0,
+  "is_draft": false
+}

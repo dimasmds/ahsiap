@@ -1,0 +1,15 @@
+{
+  "submission_id": 1,
+  "message": "<p>Selamat <strong>Ujang</strong>! Kamu telah lolos submission ini!",
+  "checklist_keys": [
+    "contain_package_json",
+    "contain_main_js",
+    "main_js_contain_student_id",
+    "root_should_showing_html",
+    "app_port_should_5000",
+    "html_should_contain_h1_and_student_id"
+  ],
+  "is_passed": true,
+  "rating": 5,
+  "is_draft": false
+}

@@ -1,0 +1,11 @@
+{
+  "submission_id": 1,
+  "message": "<p>Maaf <strong>Asep</strong>! Kamu belum berhasil lolos dengan alasan: <p>Teks komentar yang kamu tuliskan pada berkas main.js bukanlah student id yang kamu miliki. Silakan dicek lagi, ya!</p>, <p>Kami gagal menjalankan aplikasimu dengan error fetch failed!</p>",
+  "checklist_keys": [
+    "contain_package_json",
+    "contain_main_js"
+  ],
+  "is_passed": false,
+  "rating": 0,
+  "is_draft": false
+}
